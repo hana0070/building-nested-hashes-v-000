@@ -1,7 +1,12 @@
 def first_challenge
    epic_tragedy = {
-     montage: {},
+     montague: {},
      capulet: {}
 
    }
 end
+
+epic_tragedy = {
+  :montague => {},
+  :capulet => {}
+}
